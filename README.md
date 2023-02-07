@@ -1,8 +1,7 @@
 # The-Metropolitan-Museum-of-Art
-Trying to explore the data, infer some interesting insights.
-Trying to explore the data, infer some interesting insights, explore the prominent data patterns and present them in an appropriate manner. Particularly of interest are original approaches showing your machine learning expertise. You may opt for methods from natural language understanding, recommender systems, image processing, forecasting, outlier detection, network analysis, you name it.
+In this repo, I'm trying to explore the data, and apply some machine learning on it.
 
-Based on the above surveillance, I've come up with the following reasoning:
+Having explored the data, I've come up with the following reasoning:
 
 Discussion of the dataset and the plan of attack
 Challenges:
