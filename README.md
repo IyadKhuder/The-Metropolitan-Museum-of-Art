@@ -1,7 +1,7 @@
 # The-Metropolitan-Museum-of-Art
  - Deep Learning using TensorFlow.Keras Conv2D
- - # deep layers: 6
- - # parameters: 1,578,916
+ - Num. deep layers: 6
+ - Num. parameters: 1,578,916
  
 In this repo, I'm trying to explore the data, and apply some machine learning on it.
 
